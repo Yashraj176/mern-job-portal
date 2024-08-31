@@ -25,6 +25,7 @@ To get started with the assignment project, follow these steps:
 
 1. Clone the repository to your local machine:
     ```bash
+    https://github.com/Yashraj176/mern-job-portal.git
     ```
 
 2. Change into the frontend directory:
